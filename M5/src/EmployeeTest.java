@@ -69,7 +69,7 @@ class Employee {
 }
 
 /**
- * Classe que crea prova la classe Employee.
+ * Classe que crea prova la classe Employee
  * 
  * @author Abderrahim Talhaoui.
  * @version 1.2
