@@ -2,7 +2,7 @@
  * Classe que crea empleats.
  * 
  * @author Abderrahim Talhaoui.
- * @version 2.0
+ * @version 2.0 
  */
 class Employee {
 
