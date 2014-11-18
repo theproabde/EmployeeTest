@@ -2,7 +2,7 @@
  * Classe que crea empleats.
  * 
  * @author Abderrahim Talhaoui.
- * @version 2.0 
+ * @version 2.0
  */
 class Employee {
 
@@ -84,6 +84,9 @@ public class EmployeeTest {
 		   * el tornem a mostrar.
 		   * 
 		   * */
+		   int versio = 2;
+		   System.out.println("la versio es: "+versio);
+		   
 	      Employee mal = 
 	         new Employee("Nathan Fillion", 25000.0);
 	      System.out.println("mal's salary: " + 
