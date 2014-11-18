@@ -84,8 +84,11 @@ public class EmployeeTest {
 		   * el tornem a mostrar.
 		   * 
 		   * */
-		   int versio = 2;
+		   int versio = 3;
 		   System.out.println("la versio es: "+versio);
+		   for (int i = 0; i < 5; i++) {
+			System.out.println("ola k ase");
+		}
 		   
 	      Employee mal = 
 	         new Employee("Nathan Fillion", 25000.0);
